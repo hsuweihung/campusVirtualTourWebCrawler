@@ -20,6 +20,7 @@ titles = []
 
 #connect to local DB
 conn = pymysql.connect(
+    #put db info here
     host='',
     port='',
     user='',
